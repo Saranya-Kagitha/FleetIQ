@@ -45,7 +45,20 @@ The proposed system focuses on combining vehicle detection, approaching-vehicle 
 
 ## Working Prototype
 
+🎥 [Watch the FleetIQ Working Prototype]
+
 https://drive.google.com/file/d/1dUHDIihPTvMFtJpw_6XBScyKr5yK2vyV/view?usp=sharing
+
+### Prototype Description
+
+The FleetIQ prototype demonstrates the bus overload detection concept using an Arduino Uno. A potentiometer is used to simulate changes in the overall bus weight during the prototype demonstration.
+
+Based on the simulated weight value, the system compares the value with predefined safety thresholds:
+
+- 🟢 **Safe range:** Green indicator and no alarm
+- 🔴 **Overload range:** Red indicator and buzzer alert
+
+The potentiometer is used only as a prototype substitute for the actual weight-sensing mechanism. In the proposed real-world system, suitable load sensors would be used to measure the bus's overall load.
 
 ## Team
 
