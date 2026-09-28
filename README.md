@@ -43,6 +43,10 @@ The proposed system focuses on combining vehicle detection, approaching-vehicle 
 
 🚧 Prototype and development in progress.
 
+## Working Prototype
+
+https://drive.google.com/file/d/1dUHDIihPTvMFtJpw_6XBScyKr5yK2vyV/view?usp=sharing
+
 ## Team
 
 Developed as a student innovation project focused on improving vehicle and highway safety.
