@@ -20,7 +20,7 @@ Sensors monitor the overall weight of the bus. When the detected weight crosses 
 
 FleetIQ explores an AI-assisted highway safety system that monitors road conditions and provides timely alerts when a potential collision risk is identified.
 
-The proposed system focuses on combining vehicle detection, approaching-vehicle monitoring, driver alerts, and emergency-location support into a unified safety workflow.
+The proposed AI-based highway safety system uses a camera to continuously monitor the road and identify vehicles in the surrounding area. The computer vision system detects stationary vehicles and approaching vehicles, tracks their movement, and analyzes their relative positions and motion to identify a potential collision-risk situation. When the system detects a high-risk scenario, it generates a warning and alerts the approaching driver in time to take necessary action. In the event of an accident, the system can also support emergency response by providing the vehicle’s location to the appropriate emergency services. The system therefore combines vehicle detection, approaching-vehicle monitoring, collision-risk assessment, driver alerts, and emergency-location support into a unified safety workflow.
 
 ## Key Features
 
